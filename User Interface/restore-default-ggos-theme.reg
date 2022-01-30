@@ -1,0 +1,110 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects]
+"VisualFXSetting"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects]
+"VisualFXSetting"=dword:00000003
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"UserPreferencesMask"=hex(3):90,12,03,80,10,00,00,00
+"DragFullWindows"="1"
+"FontSmoothing"="2"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics]
+"MinAnimate"="0"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"ShellState"=hex(3):24,00,00,00,27,20,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,01,00,00,00,13,00,00,00,00,00,00,00,62,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"IconsOnly"=dword:00000000
+"ListviewAlphaSelect"=dword:00000000
+"ListviewShadow"=dword:00000000
+"TaskbarAnimations"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM]
+"AccentColor"=dword:ff4d4d4d
+"AlwaysHibernateThumbnails"=dword:00000000
+"ColorizationAfterglow"=dword:c44d4d4d
+"ColorizationColor"=dword:c44d4d4d
+"EnableAeroPeek"=dword:00000000
+"EnableWindowColorization"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:00000000
+"EnableTransparency"=dword:00000000
+"SystemUsesLightTheme"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Colors]
+"Background"="33 33 33"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Colors]
+"Background"="33 33 33"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Colors]
+"Background"="33 33 33"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Colors]
+"Background"="33 33 33"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Colors]
+"Background"="33 33 33"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WallPaper"=""
+
+[HKEY_USERS\.DEFAULT\Control Panel\Desktop]
+"WallPaper"=""
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop]
+"WallPaper"=""
+
+[HKEY_USERS\S-1-5-19\Control Panel\Desktop]
+"WallPaper"=""
+
+[HKEY_USERS\S-1-5-20\Control Panel\Desktop]
+"WallPaper"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_USERS\S-1-5-18\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+"BackgroundType"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+"BackgroundType"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
+
+[HKEY_USERS\S-1-5-18\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:ff424242
+"AccentColorMenu"=dword:ff4d4d4d
