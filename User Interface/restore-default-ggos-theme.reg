@@ -38,22 +38,63 @@ Windows Registry Editor Version 5.00
 "SystemUsesLightTheme"=dword:00000000
 
 [HKEY_CURRENT_USER\Control Panel\Colors]
-"Background"="33 33 33"
-
-[HKEY_USERS\.DEFAULT\Control Panel\Colors]
-"Background"="33 33 33"
-
-[HKEY_USERS\S-1-5-18\Control Panel\Colors]
-"Background"="33 33 33"
-
-[HKEY_USERS\S-1-5-19\Control Panel\Colors]
-"Background"="33 33 33"
-
-[HKEY_USERS\S-1-5-20\Control Panel\Colors]
-"Background"="33 33 33"
+"Background"="25 25 25"
 
 [HKEY_CURRENT_USER\Control Panel\Desktop]
 "WallPaper"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"BackgroundType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"Background"="25 25 25"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\History\Colors]
+"ColorHistory0"=dword:004d4d4d
+"ColorHistory1"=dword:ffd77800
+"ColorHistory2"=dword:00c3b700
+"ColorHistory3"=dword:00484a4c
+"ColorHistory4"=dword:002311e8
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM]
+"ColorizationColor"=dword:c44d4d4d
+"ColorizationAfterglow"=dword:c44d4d4d
+"EnableWindowColorization"=dword:00000001
+"AccentColor"=dword:004d4d4d
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
+"AccentPalette"=hex:6f,6f,6f,ff,61,61,61,ff,57,57,57,ff,4d,4d,4d,ff,42,42,42,\
+  ff,38,38,38,ff,2a,2a,2a,ff,88,17,98,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
+"BackgroundType"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
+"AccentPalette"=hex:6f,6f,6f,ff,61,61,61,ff,57,57,57,ff,4d,4d,4d,ff,42,42,42,\
+  ff,38,38,38,ff,2a,2a,2a,ff,88,17,98,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
+"BackgroundType"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Control Panel\Colors]
+"Background"="25 25 25"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Colors]
+"Background"="25 25 25"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Colors]
+"Background"="25 25 25"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Colors]
+"Background"="25 25 25"
 
 [HKEY_USERS\.DEFAULT\Control Panel\Desktop]
 "WallPaper"=""
@@ -67,44 +108,18 @@ Windows Registry Editor Version 5.00
 [HKEY_USERS\S-1-5-20\Control Panel\Desktop]
 "WallPaper"=""
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
 
 [HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-
-[HKEY_USERS\S-1-5-18\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-
-[HKEY_USERS\S-1-5-19\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-
-[HKEY_USERS\S-1-5-20\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-"BackgroundType"=dword:00000001
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
-"BackgroundType"=dword:00000001
-
-[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
 
 [HKEY_USERS\S-1-5-18\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]
-"StartColorMenu"=dword:ff424242
-"AccentColorMenu"=dword:ff4d4d4d
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d
+
+[HKEY_USERS\S-1-5-18\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"StartColorMenu"=dword:00424242
+"AccentColorMenu"=dword:004d4d4d

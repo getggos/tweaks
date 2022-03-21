@@ -4,10 +4,12 @@ https://github.com/getggos
 -------------------------------------------------------------
 WIN32 PRIORITY SEPARATION
 The registry files in this folder can impact the FPS, input
-latency, hit reg, and overall feel of your games. There is no
-best value, because everyone has different hardware, games,
-needs and preferences. These values are here for your testing.
-They take effect immediately, and there is no need to restart. 
+latency, hit reg, and overall feel of your games. In theory,
+long values are better for smoothness, and short values are 
+better for latency. There is no best value, because everyone
+has different hardware, games, needs, and preferences. These
+values are here for testing, and there is no need to restart
+your computer after applying them.
 -------------------------------------------------------------
 THIS SOFTWARE IS PROVIDED BY THE CONTRIBUTORS "AS IS" AND ANY
 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
